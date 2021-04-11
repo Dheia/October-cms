@@ -1,4 +1,6 @@
-<head>
-    ...
-    {% placeholder head %}
-</head>
+<p>&lt;h1&gt;
+</p>
+<p>    &lt;strong&gt;&lt;em&gt;Main Page&lt;/em&gt;&lt;/strong&gt;
+</p>
+<p>&lt;/h1&gt;
+</p>
